@@ -1,0 +1,1 @@
+1. Naučiti Git\n2. Napraviti projekat\n3. Napraviti commit
